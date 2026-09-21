@@ -45,3 +45,5 @@ Se quiser rodar o projeto localmente na sua máquina:
 Desenvolvido com 💻 por **Paulo Wenderson**. Conecte-se comigo:
 
 [![GitHub](https://shields.io)](https://github.com/paulowenderson)
+
+[LinkedIn](https://www.linkedin.com/in/paulo-wenderson-24321b332)
